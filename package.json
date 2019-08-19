@@ -1,0 +1,11 @@
+{
+  "name": "librarymovie",
+  "version": "1.0.0",
+  "description": "List Film",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fikri Basa",
+  "license": "ISC"
+}
